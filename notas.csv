@@ -1,0 +1,202 @@
+Aluno,Disciplina,Data_Prova,Nota                   
+Lucas,Matematica,2023-01-10,9.0
+Antônio,Português,2023-07-12,1.6
+Gustavo,História,2023-08-09,9.7
+Bárbara,Sociologia,2023-10-31,1.9
+Samuel,História,2023-06-26,6.2
+Laís,Geografia,2023-11-08,3.1     
+Milena,Física,2023-09-11,6.4
+Vitor Hugo,Física,2023-04-04,5.5
+Nicolas,Química,2023-05-27,5.1
+Murilo,Inglês,2023-06-10,6.4
+Nicolas,História,2023-06-04,5.4
+Luiz Otávio,Matematica,2023-05-03,6.9
+Breno,Sociologia,2023-07-31,1.6
+Mariana,Biologia,2023-06-06,1.0
+Gustavo,Química,2023-02-02,9.4
+Nicolas,Física,2023-08-28,5.6
+Helena,Sociologia,2023-02-22,9.0
+Emilly,Inglês,2023-08-21,7.6
+Diego,Matematica,2023-12-01,9.5
+Breno,Química,2023-07-26,5.2
+Nicolas,Física,2023-08-19,8.8
+Vitória,Química,2023-05-18,6.1
+Alice,Sociologia,2023-03-12,5.9
+Pedro Miguel,Sociologia,2023-04-03,0.5
+Pedro,Física,2023-07-28,1.7
+Ian,Química,2023-09-15,4.2
+Lorena,Filosofia,2023-11-22,0.1
+João,Sociologia,2023-02-02,5.2
+Emilly,Física,2023-04-12,8.0
+Luiz Otávio,Sociologia,2023-07-28,8.0
+Larissa,História,2023-01-07,5.9
+Emilly,Sociologia,2023-10-19,1.5
+Laís,Biologia,2023-11-01,1.4
+Larissa,Sociologia,2023-02-11,0.4
+Gustavo,Filosofia,2023-01-13,6.6
+Maria Eduarda,Filosofia,2023-12-14,6.5
+Larissa,Sociologia,2023-10-09,2.9
+Milena,Matematica,2023-04-09,6.1
+Emilly,Sociologia,2023-07-18,0.8
+Heitor,Química,2023-08-29,6.4
+Maria Alice,Biologia,2023-02-26,2.5
+Milena,Português,2023-02-14,8.8
+Helena,Inglês,2023-10-29,8.7
+Caroline,Física,2023-09-08,7.8
+Luana,Biologia,2023-02-17,9.3
+Breno,Física,2023-04-18,1.2
+Diego,Física,2023-11-05,5.5
+Maysa,Biologia,2023-07-04,2.1
+Samuel,História,2023-01-24,3.6
+Carlos Eduardo,Matematica,2023-11-28,1.0
+Bárbara,Inglês,2023-08-18,8.0
+Alice,Inglês,2023-09-14,7.8
+Caroline,Matematica,2023-01-14,8.5
+Emilly,Biologia,2023-11-05,6.0
+Diego,Biologia,2023-11-05,7.4
+Vitória,Inglês,2023-04-12,0.9
+Gustavo,Filosofia,2023-05-13,4.7
+Caio,Física,2023-12-21,6.0
+Caroline,Matematica,2023-05-22,4.9
+Nicolas,Filosofia,2023-07-27,8.5
+Maria Alice,Sociologia,2023-05-18,7.4
+Danilo,Geografia,2023-12-27,2.3
+Helena,Português,2023-11-05,3.7
+Letícia,Filosofia,2023-06-04,3.7
+Antônio,Português,2023-05-12,9.5
+Pedro Miguel,Química,2023-12-13,6.9
+João,História,2023-06-23,8.1
+Caroline,Geografia,2023-01-20,7.3
+Maysa,Matematica,2023-09-12,1.2
+Murilo,Filosofia,2023-09-02,9.2
+Antônio,Filosofia,2023-05-15,6.3
+Nicolas,Química,2023-01-18,9.6
+Caio,Sociologia,2023-06-28,4.6
+Maria Alice,Física,2023-11-14,2.1
+Pedro Miguel,Física,2023-05-24,9.3
+Helena,História,2023-11-26,5.0
+Alice,Inglês,2023-10-11,3.1
+Danilo,Geografia,2023-06-04,9.5
+Luiz Miguel,Matematica,2023-02-25,8.6
+Laís,Português,2023-12-09,6.5
+Mariana,Sociologia,2023-12-19,7.1
+Luiz Otávio,Química,2023-12-16,3.4
+Gustavo,Geografia,2023-05-23,0.3
+Samuel,Sociologia,2023-07-03,9.6
+Helena,Matematica,2023-01-12,9.0
+Nicolas,Química,2023-06-04,5.9
+Eloah,Inglês,2023-11-02,4.9
+Lorena,Química,2023-08-05,2.8
+Theo,Geografia,2023-12-23,9.1
+Maria Alice,Filosofia,2023-03-10,1.1
+Maria Alice,Geografia,2023-09-27,8.9
+Lorenzo,Português,2023-02-15,5.8
+Thomas,Matematica,2023-09-03,6.6
+Nicolas,Sociologia,2023-09-14,0.6
+Heitor,Física,2023-09-25,4.0
+Ana Clara,Matematica,2023-06-15,0.5
+Theo,História,2023-06-19,7.2
+Nicolas,Geografia,2023-09-21,7.8
+Giovanna,História,2023-03-26,1.3
+Yago,Química,2023-12-19,4.1
+Emilly,Sociologia,2023-07-06,5.9
+Gustavo,Filosofia,2023-03-18,0.1
+Breno,Português,2023-02-24,7.5
+Lorenzo,Biologia,2023-06-18,7.5
+Mariane,Matematica,2023-07-28,9.7
+Pedro,Português,2023-12-03,9.8
+Laís,Português,2023-05-19,6.9
+Diego,Matematica,2023-05-17,0.2
+Breno,Filosofia,2023-08-25,9.6
+Caroline,Geografia,2023-07-09,8.2
+Pedro Miguel,Filosofia,2023-06-10,2.9
+Lorena,Sociologia,2023-04-05,2.1
+Maria Eduarda,Filosofia,2023-12-06,3.1
+Luana,Matematica,2023-07-23,2.5
+Nicolas,Inglês,2023-05-30,0.6
+Heitor,Biologia,2023-12-06,8.4
+Laís,Matematica,2023-05-30,2.8
+Antônio,Sociologia,2023-06-15,1.4
+Caio,Biologia,2023-12-11,7.5
+Giovanna,Sociologia,2023-08-30,10.0
+Nicolas,Química,2023-09-24,8.5
+Larissa,Química,2023-09-07,7.4
+Ian,Português,2023-09-21,7.3
+Danilo,Português,2023-11-14,9.6
+Yago,Matematica,2023-12-28,3.8
+Gustavo,Física,2023-06-01,4.7
+Danilo,Química,2023-06-06,0.7
+Ian,Física,2023-03-15,6.5
+Maria Alice,Física,2023-11-02,4.5
+Vitória,Filosofia,2023-06-24,0.2
+Breno,Física,2023-07-03,5.6
+Maria Alice,História,2023-08-08,6.4
+Laís,Filosofia,2023-11-03,8.8
+Nicolas,Inglês,2023-07-25,1.0
+Caio,Biologia,2023-01-08,0.2
+Ian,Matematica,2023-03-25,4.5
+Samuel,Matematica,2023-10-12,1.3
+Mariane,Matematica,2023-08-30,7.8
+Vitor Hugo,Matematica,2023-06-17,1.8
+Breno,História,2023-02-01,6.2
+Larissa,Química,2023-11-16,7.7
+Helena,Filosofia,2023-02-19,9.1
+Nicolas,História,2023-03-05,6.2
+Milena,Física,2023-08-24,0.5
+Gustavo,Inglês,2023-01-14,9.0
+Heitor,Inglês,2023-04-20,3.0
+Alice,Sociologia,2023-10-19,4.9
+Yago,História,2023-09-29,0.3
+Pedro Miguel,Filosofia,2023-09-24,7.6
+Pedro,Física,2023-03-20,9.7
+Maria Alice,Inglês,2023-12-13,7.8
+Diego,Sociologia,2023-01-02,9.9
+Alice,Filosofia,2023-12-13,1.1
+Nicolas,Matematica,2023-12-30,0.1
+Maria Eduarda,Geografia,2023-10-20,5.5
+Caio,Geografia,2023-06-14,2.7
+Luana,Química,2023-02-05,5.2
+Maria Eduarda,Matematica,2023-08-19,2.1
+Maria Alice,Geografia,2023-10-18,0.6
+Ian,Geografia,2023-01-21,9.0
+Milena,História,2023-06-04,8.3
+Gustavo,Química,2023-06-07,0.8
+João Pedro,Geografia,2023-05-23,9.0
+Theo,Física,2023-03-25,8.9
+Vitor Hugo,História,2023-05-19,8.2
+João Pedro,Química,2023-01-21,0.0
+Theo,Filosofia,2023-12-01,5.2
+Yago,Geografia,2023-12-18,1.7
+Giovanna,Matematica,2023-08-27,9.5
+Milena,Sociologia,2023-02-14,0.6
+Heitor,Filosofia,2023-11-15,9.3
+Luiz Miguel,Matematica,2023-09-01,4.6
+Milena,Química,2023-09-25,8.7
+Laís,História,2023-02-13,4.1
+João,Química,2023-05-07,5.1
+Maysa,Química,2023-01-11,2.6
+Pedro Miguel,Filosofia,2023-06-17,3.8
+Lorena,Matematica,2023-07-04,2.9
+Carlos Eduardo,Química,2023-06-01,8.3
+Yago,Inglês,2023-10-04,8.5
+Thomas,Filosofia,2023-11-10,5.1
+Bárbara,Sociologia,2023-08-19,6.1
+Eloah,Sociologia,2023-12-24,9.4
+Murilo,Inglês,2023-01-25,0.4
+Yago,Química,2023-05-08,2.2
+Pedro Miguel,Geografia,2023-01-07,8.7
+João,Sociologia,2023-09-16,9.6
+Laís,Química,2023-06-18,8.6
+Vitória,Matematica,2023-09-08,9.0
+Nicolas,Sociologia,2023-11-07,7.4
+Luana,Filosofia,2023-10-10,6.6
+Antônio,Matematica,2023-09-27,7.7
+Luana,Inglês,2023-11-16,2.8
+Letícia,Física,2023-07-15,1.5
+Luiz Miguel,Biologia,2023-07-30,2.3
+Caroline,História,2023-10-05,1.9
+Lorenzo,Inglês,2023-01-16,3.5
+Antônio,Biologia,2023-02-16,7.0
+Breno,Filosofia,2023-05-02,8.9
+Ian,Biologia,2023-03-30,4.2
+Ian,Biologia,2023-05-28,0.5

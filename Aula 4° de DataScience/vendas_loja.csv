@@ -1,0 +1,202 @@
+Data,Produto,Categoria,Quantidade,Preço_unitario
+2023-01-05,Smartphone,Eletrônicos,2,1500.0
+2023-03-15,Tablet,Eletrônicos,2,411.49
+2023-03-19,Aspirador de Pó,Eletrodomésticos,6,280.46
+2023-02-23,Didático,Livros,1,2781.65
+2023-02-10,Geladeira,Eletrodomésticos,10,1018.88
+2023-12-25,HQ,Livros,8,1785.0
+2023-04-30,Camiseta,Vestuário,7,217.39
+2023-07-13,Fogão,Eletrodomésticos,9,1027.72
+2023-07-25,Café,Alimentos,2,542.88
+2023-11-24,Geladeira,Eletrodomésticos,7,2399.14
+2023-11-05,Azeite,Alimentos,8,530.08
+2023-05-01,Notebook,Eletrônicos,6,1605.14
+2023-11-17,Biografia,Livros,5,2011.61
+2023-05-10,Jaqueta,Vestuário,3,797.33
+2023-12-30,Feijão,Alimentos,5,1123.48
+2023-03-30,Biografia,Livros,4,2550.85
+2023-05-09,Arroz,Alimentos,5,1577.94
+2023-06-30,Fone de Ouvido,Eletrônicos,4,676.39
+2023-09-21,Azeite,Alimentos,6,597.39
+2023-07-20,Aspirador de Pó,Eletrodomésticos,2,850.78
+2023-11-13,Didático,Livros,3,588.17
+2023-04-18,Arroz,Alimentos,5,458.66
+2023-06-26,Calça,Vestuário,7,1760.32
+2023-10-14,Notebook,Eletrônicos,9,2255.42
+2023-12-05,Biografia,Livros,3,1720.53
+2023-10-07,Romance,Livros,1,2617.55
+2023-11-07,Micro-ondas,Eletrodomésticos,1,2038.84
+2023-01-13,Geladeira,Eletrodomésticos,8,332.7
+2023-08-01,Geladeira,Eletrodomésticos,1,1355.54
+2023-05-26,Macarrão,Alimentos,3,352.02
+2023-10-31,Biografia,Livros,4,780.62
+2023-07-14,Biografia,Livros,6,988.65
+2023-04-23,Azeite,Alimentos,3,2162.89
+2023-11-20,Boné,Vestuário,2,1766.31
+2023-03-12,Biografia,Livros,1,1904.34
+2023-03-21,Didático,Livros,9,623.81
+2023-08-04,HQ,Livros,7,2432.15
+2023-09-02,Boné,Vestuário,8,1980.14
+2023-05-12,Notebook,Eletrônicos,9,182.47
+2023-09-10,Boné,Vestuário,9,67.78
+2023-06-17,Smartphone,Eletrônicos,7,396.06
+2023-09-24,Aspirador de Pó,Eletrodomésticos,2,1020.76
+2023-09-04,Feijão,Alimentos,8,1760.96
+2023-07-05,Smartphone,Eletrônicos,2,2586.41
+2023-05-02,Fone de Ouvido,Eletrônicos,7,560.37
+2023-05-30,Café,Alimentos,9,1546.51
+2023-07-21,Aspirador de Pó,Eletrodomésticos,9,802.14
+2023-07-04,Arroz,Alimentos,2,1827.09
+2023-03-26,Fogão,Eletrodomésticos,5,1351.96
+2023-04-11,Tablet,Eletrônicos,3,1006.7
+2023-05-05,Café,Alimentos,7,1616.09
+2023-10-15,Camiseta,Vestuário,8,1868.71
+2023-03-31,Jaqueta,Vestuário,9,720.6
+2023-09-23,Ficção Científica,Livros,9,1913.31
+2023-06-13,Romance,Livros,7,1900.68
+2023-02-09,Arroz,Alimentos,10,1550.4
+2023-12-23,Notebook,Eletrônicos,3,1175.67
+2023-05-10,Fone de Ouvido,Eletrônicos,5,1541.45
+2023-02-27,Aspirador de Pó,Eletrodomésticos,9,2919.46
+2023-02-27,Camiseta,Vestuário,4,122.03
+2023-07-24,Tablet,Eletrônicos,7,2876.36
+2023-08-07,Tablet,Eletrônicos,9,1163.87
+2023-09-29,Tablet,Eletrônicos,4,2709.43
+2023-11-12,Tênis,Vestuário,1,2078.9
+2023-08-03,Micro-ondas,Eletrodomésticos,4,831.8
+2023-03-07,Jaqueta,Vestuário,10,507.09
+2023-11-13,Ficção Científica,Livros,3,2658.94
+2023-04-18,Smartwatch,Eletrônicos,6,798.98
+2023-05-01,Smartphone,Eletrônicos,7,1992.95
+2023-04-01,Máquina de Lavar,Eletrodomésticos,8,498.37
+2023-06-03,Notebook,Eletrônicos,2,2480.74
+2023-11-03,HQ,Livros,2,2790.71
+2023-10-07,Smartwatch,Eletrônicos,5,1984.51
+2023-05-13,Smartwatch,Eletrônicos,3,1124.08
+2023-01-26,Boné,Vestuário,6,1773.44
+2023-03-26,Romance,Livros,5,2903.47
+2023-02-04,Geladeira,Eletrodomésticos,4,2591.91
+2023-03-22,Macarrão,Alimentos,4,69.0
+2023-08-21,Ficção Científica,Livros,7,171.4
+2023-07-29,Café,Alimentos,10,2628.66
+2023-03-07,Café,Alimentos,4,168.21
+2023-11-05,Biografia,Livros,8,1391.49
+2023-11-30,Café,Alimentos,5,2852.78
+2023-09-29,Micro-ondas,Eletrodomésticos,5,1932.3
+2023-10-19,HQ,Livros,6,1181.86
+2023-11-07,Máquina de Lavar,Eletrodomésticos,2,2956.11
+2023-11-10,Calça,Vestuário,3,240.11
+2023-12-03,Geladeira,Eletrodomésticos,2,2478.3
+2023-04-07,Biografia,Livros,6,1248.05
+2023-04-14,Biografia,Livros,4,919.08
+2023-03-18,Boné,Vestuário,7,1197.79
+2023-06-24,Feijão,Alimentos,6,1773.88
+2023-02-12,Ficção Científica,Livros,3,2561.95
+2023-10-17,Smartwatch,Eletrônicos,3,2427.49
+2023-10-08,Fone de Ouvido,Eletrônicos,2,2986.65
+2023-09-23,Aspirador de Pó,Eletrodomésticos,5,2447.81
+2023-04-08,Tablet,Eletrônicos,8,2342.67
+2023-05-02,Tênis,Vestuário,3,1857.78
+2023-11-10,Boné,Vestuário,7,805.66
+2023-09-24,Fone de Ouvido,Eletrônicos,2,1552.14
+2023-01-15,Fogão,Eletrodomésticos,4,2154.03
+2023-11-25,Camiseta,Vestuário,7,660.95
+2023-08-14,Micro-ondas,Eletrodomésticos,4,2438.96
+2023-03-25,Jaqueta,Vestuário,2,2854.65
+2023-08-05,Calça,Vestuário,1,1819.89
+2023-04-05,Fogão,Eletrodomésticos,5,573.43
+2023-02-06,HQ,Livros,4,1787.81
+2023-11-09,Calça,Vestuário,9,1974.02
+2023-10-03,Micro-ondas,Eletrodomésticos,4,49.1
+2023-09-04,Ficção Científica,Livros,6,2109.14
+2023-03-30,Tênis,Vestuário,1,2216.13
+2023-09-21,Café,Alimentos,8,1892.7
+2023-12-27,Café,Alimentos,5,1943.81
+2023-02-19,Café,Alimentos,9,1173.89
+2023-04-30,Didático,Livros,8,2642.03
+2023-08-03,Tablet,Eletrônicos,10,645.5
+2023-07-16,Fogão,Eletrodomésticos,6,2529.24
+2023-04-07,Geladeira,Eletrodomésticos,5,2287.03
+2023-07-16,Romance,Livros,3,500.5
+2023-07-01,Arroz,Alimentos,1,97.36
+2023-01-17,Geladeira,Eletrodomésticos,5,2716.97
+2023-01-11,Ficção Científica,Livros,1,811.77
+2023-04-10,Macarrão,Alimentos,4,699.02
+2023-02-20,Micro-ondas,Eletrodomésticos,9,2908.24
+2023-04-26,Tablet,Eletrônicos,6,1251.66
+2023-10-24,Macarrão,Alimentos,10,2414.23
+2023-01-01,Tênis,Vestuário,6,2005.57
+2023-10-23,Geladeira,Eletrodomésticos,1,1139.15
+2023-08-22,Aspirador de Pó,Eletrodomésticos,8,2571.37
+2023-10-04,Fogão,Eletrodomésticos,4,651.9
+2023-04-27,Fogão,Eletrodomésticos,2,2357.59
+2023-05-20,Romance,Livros,7,2332.59
+2023-01-30,Biografia,Livros,2,2634.22
+2023-07-31,Azeite,Alimentos,1,1207.92
+2023-02-19,Azeite,Alimentos,7,267.75
+2023-06-25,Aspirador de Pó,Eletrodomésticos,1,2967.83
+2023-09-11,Tablet,Eletrônicos,6,2613.26
+2023-02-09,Aspirador de Pó,Eletrodomésticos,3,832.54
+2023-10-21,Fone de Ouvido,Eletrônicos,2,2870.09
+2023-06-18,Azeite,Alimentos,6,349.53
+2023-05-08,Feijão,Alimentos,7,1426.91
+2023-01-12,Fogão,Eletrodomésticos,3,988.23
+2023-12-11,Feijão,Alimentos,4,2607.46
+2023-12-26,Didático,Livros,3,933.84
+2023-05-06,Arroz,Alimentos,5,2904.0
+2023-04-23,Tênis,Vestuário,8,1914.39
+2023-08-05,Tablet,Eletrônicos,8,1556.7
+2023-07-03,Fogão,Eletrodomésticos,3,2868.56
+2023-04-27,Camiseta,Vestuário,2,283.77
+2023-03-13,Smartphone,Eletrônicos,9,2204.5
+2023-05-10,Smartphone,Eletrônicos,4,1280.25
+2023-12-29,Camiseta,Vestuário,10,1652.71
+2023-10-26,Smartwatch,Eletrônicos,7,986.64
+2023-07-30,Notebook,Eletrônicos,4,1730.36
+2023-02-16,Feijão,Alimentos,4,1181.86
+2023-07-17,Máquina de Lavar,Eletrodomésticos,5,2779.77
+2023-11-12,Biografia,Livros,10,2978.35
+2023-07-22,Calça,Vestuário,7,633.59
+2023-08-12,Didático,Livros,10,2054.52
+2023-04-17,Smartphone,Eletrônicos,7,1938.96
+2023-11-18,Boné,Vestuário,10,2063.49
+2023-11-22,Azeite,Alimentos,10,186.31
+2023-12-20,Macarrão,Alimentos,6,107.51
+2023-08-31,Boné,Vestuário,9,2800.95
+2023-05-16,Camiseta,Vestuário,1,609.17
+2023-06-12,Fone de Ouvido,Eletrônicos,2,2175.86
+2023-08-04,Smartwatch,Eletrônicos,9,1274.0
+2023-11-17,Didático,Livros,3,762.01
+2023-08-21,Máquina de Lavar,Eletrodomésticos,4,593.8
+2023-12-15,Arroz,Alimentos,2,2632.61
+2023-01-01,Micro-ondas,Eletrodomésticos,8,333.54
+2023-07-20,Camiseta,Vestuário,3,417.85
+2023-05-29,Smartphone,Eletrônicos,6,533.91
+2023-06-18,Ficção Científica,Livros,8,2768.49
+2023-07-18,Romance,Livros,4,2536.21
+2023-06-10,Azeite,Alimentos,3,2872.12
+2023-01-02,Micro-ondas,Eletrodomésticos,4,449.03
+2023-12-01,Smartwatch,Eletrônicos,10,524.6
+2023-12-18,Aspirador de Pó,Eletrodomésticos,8,112.41
+2023-05-31,Macarrão,Alimentos,2,1824.58
+2023-05-19,Tênis,Vestuário,7,258.99
+2023-12-09,HQ,Livros,9,268.97
+2023-10-03,Feijão,Alimentos,5,671.29
+2023-07-10,Macarrão,Alimentos,5,471.43
+2023-11-19,Boné,Vestuário,8,1535.68
+2023-02-18,Camiseta,Vestuário,1,977.79
+2023-07-12,Smartphone,Eletrônicos,7,710.04
+2023-03-04,Ficção Científica,Livros,2,2242.43
+2023-02-05,HQ,Livros,1,2382.33
+2023-07-19,HQ,Livros,6,149.26
+2023-04-26,Arroz,Alimentos,10,2016.93
+2023-12-19,Romance,Livros,3,1353.65
+2023-05-17,Fogão,Eletrodomésticos,6,500.18
+2023-05-01,Tênis,Vestuário,3,507.1
+2023-06-17,Ficção Científica,Livros,6,442.54
+2023-01-18,Tênis,Vestuário,5,78.95
+2023-06-07,HQ,Livros,7,738.08
+2023-12-02,Macarrão,Alimentos,4,2209.97
+2023-10-17,Boné,Vestuário,1,657.15
+2023-02-21,Smartwatch,Eletrônicos,6,778.65
+2023-10-29,Tênis,Vestuário,8,1834.58
