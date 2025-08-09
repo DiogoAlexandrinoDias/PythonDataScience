@@ -6,33 +6,39 @@ import re
 
 # ─── Funções de validação ───────────────────────────────────────────────
 
+
 def validar_nome(novo_texto: str) -> bool:
     """
     Permite apenas letras (maiúsculas/minúsculas). Permite apagar tudo (texto vazio).
     """
     return novo_texto == "" or novo_texto.isalpha()
 
+
 def validar_nota(novo_texto: str) -> bool:
     """
     Permite apenas dígitos e até um ponto decimal, com no máximo um '.'.
-    Não impõe o intervalo aqui (ou seja, permite 11.5 ao digitar), 
+    Não impõe o intervalo aqui (ou seja, permite 11.5 ao digitar),
     mas evita letras. O intervalo é conferido no botão.
     """
     # Regex: opcional sinais +, −; apenas dígitos e ponto; no máximo um ponto
     return bool(re.fullmatch(r"[0-9]*\.?[0-9]*", novo_texto))
 
+
 # ─── Função para salvar em CSV ───────────────────────────────────────────
 
+
 def salvar_em_csv(nome: str, nota: float):
-    arquivo = 'dados.csv'
+    arquivo = "dados.csv"
     existe = os.path.isfile(arquivo)
-    with open(arquivo, mode='a', newline='', encoding='utf‑8') as f:
+    with open(arquivo, mode="a", newline="", encoding="utf‑8") as f:
         escritor = csv.writer(f)
         if not existe:
-            escritor.writerow(['Nome', 'Nota'])
+            escritor.writerow(["Nome", "Nota"])
         escritor.writerow([nome, f"{nota:.2f}"])
 
+
 # ─── Fluxo de janelas ──────────────────────────────────────────────────
+
 
 def mostrarMensagemNome():
     nome = entrada_nome.get().strip()
@@ -41,7 +47,10 @@ def mostrarMensagemNome():
         return
     messagebox.showinfo("Saudação", f"Olá, {nome}!")
     # Exibe os campos da nota
-    rotulo_nota.pack(padx=5); entrada_nota.pack(padx=5); botao_nota.pack(pady=10)
+    rotulo_nota.pack(padx=5)
+    entrada_nota.pack(padx=5)
+    botao_nota.pack(pady=10)
+
 
 def mostrarMensagemNota():
     nome = entrada_nome.get().strip()
@@ -71,6 +80,7 @@ def mostrarMensagemNota():
     entrada_nota.delete(0, tk.END)
     entrada_nome.focus_set()
 
+
 # ─── Criação da janela ──────────────────────────────────────────────────
 
 root = tk.Tk()
@@ -82,7 +92,7 @@ vc_nome = root.register(validar_nome)
 vc_nota = root.register(validar_nota)
 
 # Widgets — Nome
-tk.Label(root, text="Digite o seu nome:").pack(padx=5, pady=(10,0))
+tk.Label(root, text="Digite o seu nome:").pack(padx=5, pady=(10, 0))
 entrada_nome = tk.Entry(root, validate="key", validatecommand=(vc_nome, "%P"))
 entrada_nome.pack(padx=5)
 tk.Button(root, text="Saudar", command=mostrarMensagemNome).pack(pady=10)

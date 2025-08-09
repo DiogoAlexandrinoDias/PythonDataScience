@@ -28,4 +28,4 @@ st.pyplot(fig1)
 st.subheader("Receita mensal")
 fig2, ax2 = plt.subplots()
 df.groupby("Mês")["Receita"].sum().plot(ax=ax2)
-st.pyplot(fig2)
+st.pyplot(fig2)dir

@@ -25,3 +25,4 @@ botao = tk.Button(janela, text="Clique aqui", command=mostrarMensagem)
 botao.pack(pady=20)
 
 janela.mainloop()
+

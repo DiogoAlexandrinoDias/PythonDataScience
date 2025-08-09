@@ -1,0 +1,36 @@
+Companhia,Origem,Destino,Duracao_min,Preco_R$,Mes,Atraso_min
+Passaredo,Curitiba,Fortaleza,107,910.42,Abr,23
+Itapemirim,Belo Horizonte,Porto Alegre,210,1088.95,Jan,4
+Latam,Curitiba,Porto Alegre,121,338.1,Jun,51
+Itapemirim,São Paulo,Salvador,275,965.96,Jan,33
+Itapemirim,Rio de Janeiro,Porto Alegre,96,878.79,Fev,5
+Gol,Brasília,Salvador,158,424.13,Abr,21
+Latam,São Paulo,Fortaleza,231,1422.85,Abr,10
+Latam,Brasília,Manaus,163,958.47,Jun,47
+Latam,Rio de Janeiro,Manaus,273,1087.96,Fev,15
+Itapemirim,Rio de Janeiro,Manaus,278,1338.63,Mar,32
+Passaredo,São Paulo,Porto Alegre,94,992.88,Jan,8
+Latam,Rio de Janeiro,Fortaleza,252,549.11,Mai,59
+Itapemirim,Curitiba,Porto Alegre,286,292.42,Jan,58
+Gol,Rio de Janeiro,Porto Alegre,160,766.32,Jan,5
+Passaredo,Brasília,Fortaleza,234,444.89,Mar,15
+Gol,Brasília,Fortaleza,265,712.29,Jan,28
+Passaredo,Brasília,Fortaleza,190,1342.43,Fev,2
+Itapemirim,Brasília,Fortaleza,60,587.87,Fev,19
+Azul,Curitiba,Manaus,64,314.82,Abr,59
+Passaredo,Belo Horizonte,Recife,277,631.0,Jun,58
+Gol,São Paulo,Recife,201,1374.22,Mai,35
+Itapemirim,Brasília,Fortaleza,162,517.38,Jan,18
+Passaredo,Rio de Janeiro,Recife,86,1024.38,Jan,25
+Azul,Brasília,Recife,196,150.7,Mar,2
+Azul,Rio de Janeiro,Fortaleza,266,625.97,Jun,18
+Latam,Rio de Janeiro,Recife,74,561.45,Fev,19
+Latam,Brasília,Porto Alegre,149,372.29,Mai,31
+Gol,Curitiba,Salvador,101,871.02,Abr,6
+Passaredo,Rio de Janeiro,Salvador,183,804.52,Fev,51
+Passaredo,Rio de Janeiro,Fortaleza,264,1084.79,Jun,40
+Latam,Brasília,Manaus,238,513.71,Abr,32
+Passaredo,Rio de Janeiro,Fortaleza,122,479.57,Mar,39
+Passaredo,Rio de Janeiro,Manaus,155,377.19,Mar,38
+Azul,Brasília,Salvador,290,445.33,Jan,17
+Latam,Brasília,Fortaleza,111,903.44,Jun,39
